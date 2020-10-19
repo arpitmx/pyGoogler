@@ -12,15 +12,20 @@
 # Features :
 
 1.> Chrome and Websites are directly opened , no need of wasting time in first searching and then selecting a website.
+
 2.> Users can switch to different websites fast if particular site is not sufficient for them
+
 3.> Reduces doing stuff manually
+
 4.> Can search through big text files and search for user specified inputs
+
 5.> Can compare websites which are more likely to contain your result through keyword matching
 
 
 # TOTAL ALGORITHMS: 3 
 
 Their are 3 different types of algos available for google searching in fgt as per use .
+
 1.Standard Search > INPUT : User simply inputs total tabs to be opened , and search input.
  OUTPUT : Chrome will open with first n tabs of the result from google automatically.
 
