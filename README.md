@@ -24,7 +24,7 @@
 6.> Constains history saving features also (Sql based)
 
 
-# TOTAL ALGORITHMS: 3 
+# Algorithms : 3 types 
 
 Their are 3 different types of algos available for google searching in fgt as per use .
 
