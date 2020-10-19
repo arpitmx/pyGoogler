@@ -4,12 +4,12 @@
  Submitted by ArpitMaurya01
 
 
-#Project Introduction :
+# Project Introduction :
  Google searching can also be time consuming and tiresome, therefore this project makes google search more convinient and
  ensures quicker results by crossing out opening time of chrome, websites ,
  therefore a big timesaver for quick google researching.
 
-#Features :
+# Features :
 
 1.> Chrome and Websites are directly opened , no need of wasting time in first searching and then selecting a website.
 2.> Users can switch to different websites fast if particular site is not sufficient for them
@@ -18,7 +18,7 @@
 5.> Can compare websites which are more likely to contain your result through keyword matching
 
 
-TOTAL ALGORITHMS: 3 
+# TOTAL ALGORITHMS: 3 
 
 Their are 3 different types of algos available for google searching in fgt as per use .
 1.Standard Search > INPUT : User simply inputs total tabs to be opened , and search input.
@@ -36,4 +36,4 @@ Seachable List = [Jeff Bezoz ,Founder and Ceo of Amazon.com ]
  
 
 
-#Profile link : https://github.com/ArpitMaurya01
+# Profile link : https://github.com/ArpitMaurya01
