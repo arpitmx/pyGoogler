@@ -1,4 +1,4 @@
-# pygoogler(FGT)
+# FastGooglerTool(FGT) or pygoogler :)
 
  Project Name : FastGooglerTool(FGT)
  Created and Submitted by Arpit Maurya
@@ -21,6 +21,8 @@
 
 5.> Can compare websites which are more likely to contain your result through keyword matching
 
+6.> Constains history saving features also (Sql based)
+
 
 # TOTAL ALGORITHMS: 3 
 
@@ -33,7 +35,7 @@ Their are 3 different types of algos available for google searching in fgt as pe
 OUTPUT : FGT will go through first n websites and tell how many keywords of search inputs are found in the website, accordingly user can open 
 website which have most matching keyword (Higher chance of finding the ans.) .
 
-3.Textfile Bulk Search : INPUT : User have to make a text file and paste his text in it , and the sentences he/she wants to be get searched , shoud be enclosed with in '{' and '}' so FGT will consider the sentences inside curly brackets as SEARCH INPUTS and store them for later search.
+3.Textfile Bulk Search > INPUT : User have to make a text file and paste his text in it , and the sentences he/she wants to be get searched , shoud be enclosed with in '{' and '}' so FGT will consider the sentences inside curly brackets as SEARCH INPUTS and store them for later search.
 OUTPUT : n tabs will open as user clicks enter one by one and the sentences in brackers get searched one by one.
 
 Example : 
