@@ -1,7 +1,7 @@
-# pygoogler
+# pygoogler(FGT)
 
-# Computer project > Name : FastGoogler
-# Submitted by ArpitMaurya
+# Project > Name : FastGoogler
+# Submitted by ArpitMaurya01
 
 
 #Project Introduction :
