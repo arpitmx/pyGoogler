@@ -1,4 +1,4 @@
-# FastGooglerTool(FGT) or pygoogler :)
+# FastGooglerTool(FGT)
 
  Project Name : FastGooglerTool(FGT)
  Created and Submitted by Arpit Maurya
