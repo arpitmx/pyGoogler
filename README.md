@@ -1,5 +1,7 @@
 # FastGooglerTool (FGT)
 
+[![FastGooglerTool Quick Walkthrough](https://img.youtube.com/vi/rG6XA6e8w9w/maxresdefault.jpg)](https://youtu.be/rG6XA6e8w9w)
+
  Project Name : FastGooglerTool(FGT)
  Created and Submitted by Arpit Maurya
  
