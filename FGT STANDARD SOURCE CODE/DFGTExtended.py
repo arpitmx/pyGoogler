@@ -136,8 +136,8 @@ def choose_algorithm(argument, n):
 def init():
 
 
-    print(">>>>>>>>>>>>> Initializing Dhaaaga : Fast Googler's Tool v0.5alphaEx <<<<<<<<<<<<<<<<")
-    print("                      I AM FEELING DHAAAGA LUCKY! \n  "
+    print(">>>>>>>>>>>>> Initializing Fast Googler's Tool v0.5a <<<<<<<<<<<<<<<<")
+    print("                      I AM FEELING LUCKY! \n  "
           "\nAlgoritm Menu >\n1.Standard Fast Googling Algorithm(SFGA) (Automatically opens N tabs ,with websites based on your input)= 's'"
           "\n2.Keyword matching Algorithm(KMA) (Search URL based on input and shows number of keywords matched)= 'k'  ( Under Work , not available yet)" 
           "\n3.Sweet-Shot-Text Algorithm(SST) (Take inputs from text file automatically and open best urls ( Start Area : { , End Area : } ,ie: All the words under this {} will be taken as input )= 't'"
