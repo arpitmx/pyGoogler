@@ -9,14 +9,15 @@
  
  
 # Project Introduction :
- Google searching can also be time consuming and tiresome, therefore this project makes google search more convinient and
- ensures quicker results by crossing out opening time of chrome, websites ,
- therefore a big timesaver for quick google researching.
+ Google searching can also be time consuming and tiresome if you have to research a ton of things in one go , therefore this project makes google search more convinient and
+ ensures quicker results by crossing out opening time of chrome, choosing of sites websites,
+ by directly opening the suitable sites
+ therefore can be a timesaver for quick google researching.
 
 
 # Features :
 
-1.> Chrome and Websites are directly opened , no need of wasting time in first searching and then selecting a website.
+1.> Chrome and Websites are directly opened , no need of wasting time in first manualy searching and then selecting a website.
 
 2.> Users can switch to different websites fast if particular site is not sufficient for them
 
@@ -26,7 +27,7 @@
 
 5.> Can compare websites which are more likely to contain your result through keyword matching
 
-6.> Constains history saving features also (Sql based)
+6.> history saving features (Sql based)
 
 
 # Algorithms : 3 types 
@@ -44,9 +45,9 @@ OUTPUT : Chrome will open with first n tabs of the result from google automatica
 
 INPUT : User simply inputs his search inputs.
 
-OUTPUT : FGT will go through first n websites and tell how many keywords of search 
+OUTPUT : FGT will go through first n websites and compare how many keywords of search 
 inputs are found in the website, accordingly user can open 
-website which have most matching keyword (Higher chance of finding the ans.) .
+website which have most matching keyword (Higher chance of finding more relatable content.) .
 
 ----------------------------------
 
