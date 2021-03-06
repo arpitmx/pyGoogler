@@ -34,14 +34,14 @@
 
 Their are 3 different types of algos available for google searching in fgt as per use .
 
-1.Standard Search > 
+## 1.Standard Search > 
 
 INPUT : User simply inputs total tabs to be opened , and search input.
 
 OUTPUT : Chrome will open with first n tabs of the result from google automatically.
 
 -----------------------------------
-2.Keyword Matcher >
+## 2.Keyword Matcher >
 
 INPUT : User simply inputs his search inputs.
 
@@ -51,7 +51,7 @@ website which have most matching keyword (Higher chance of finding more relatabl
 
 ----------------------------------
 
-3.Textfile Bulk Search >
+## 3.Textfile Bulk Search >
 
 INPUT : User have to make a text file and paste his text in it and the sentences user wants to be get searched , shoud be enclosed with in '{' and '}' so FGT will consider the sentences inside curly brackets as SEARCH INPUTS and store them for later searching.
 
