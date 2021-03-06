@@ -8,7 +8,7 @@
  Created and Submitted by Arpit Maurya
  
  
-# Project Introduction :
+# Abstract:
  Google searching can also be time consuming and tiresome if you have to research a ton of things in one go , therefore this project makes google search more convinient and
  ensures quicker results by crossing out opening time of chrome, choosing of sites websites,
  by directly opening the suitable sites
