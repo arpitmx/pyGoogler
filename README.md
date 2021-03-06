@@ -4,7 +4,7 @@
  
  FGT QUICK WALKTHROUGH VIDEO ^
 
- Project Name : FastGooglerTool(FGT)
+ Project Name : pyGoogler(FGT)
  Created and Submitted by Arpit Maurya
  
  
@@ -52,15 +52,15 @@ website which have most matching keyword (Higher chance of finding the ans.) .
 
 3.Textfile Bulk Search >
 
-INPUT : User have to make a text file and paste his text in it , and the sentences he/she wants to be get searched , shoud be enclosed with in '{' and '}' so FGT will consider the sentences inside curly brackets as SEARCH INPUTS and store them for later search.
+INPUT : User have to make a text file and paste his text in it and the sentences user wants to be get searched , shoud be enclosed with in '{' and '}' so FGT will consider the sentences inside curly brackets as SEARCH INPUTS and store them for later searching.
 
-OUTPUT : n tabs will open as user clicks enter one by one and the sentences in brackers get searched one by one.
+OUTPUT : N tabs will open as user clicks enter one by one and the sentences in brackets get searched one by one.
 
 Example : 
-Input = {Jeff Bezoz} is the {Founder and Ceo of Amazon.com} and he is a man of ambitions.
-Seachable List = [Jeff Bezoz ,Founder and Ceo of Amazon.com ]
+Input Text = {Jeff Bezoz} is the {Founder and Ceo of Amazon.com} and he is a man of ambitions.
+Seachable terms  = Jeff Bezoz ,Founder and Ceo of Amazon.com 
  
 -----------------------------------
 
-# Profile link : https://github.com/ArpitMaurya01
-- arpitmaurya01
+# Profile link : https://github.com/arpitmaurya
+- arpitmaurya
