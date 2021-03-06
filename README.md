@@ -1,4 +1,4 @@
-# FastGooglerTool (FGT)
+# pyGoogler (FGT :P) 
 
 [![FastGooglerTool Quick Walkthrough](https://img.youtube.com/vi/rG6XA6e8w9w/maxresdefault.jpg)](https://youtu.be/rG6XA6e8w9w)
  
