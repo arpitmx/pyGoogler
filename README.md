@@ -37,8 +37,18 @@ Their are 3 different types of algos available for google searching in fgt as pe
 ## 1.Standard Search > 
 
 INPUT : User simply inputs total tabs to be opened , and search input.
+example input:
+1.
+backtrack
+end
+
+2.
+android developmenr for beginners 
+end
 
 OUTPUT : Chrome will open with first n tabs of the result from google automatically.
+
+
 
 -----------------------------------
 ## 2.Keyword Matcher >
