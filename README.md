@@ -71,11 +71,7 @@ Example :
 Input Text = {Jeff Bezoz} is the {Founder and Ceo of Amazon.com} and he is a man of ambitions.
 Seachable terms  = Jeff Bezoz ,Founder and Ceo of Amazon.com 
  
------------------------------------
-
-# Profile link : https://github.com/arpitmaurya
-- arpitmaurya
-
+----------------------------------
 
 <img src="https://user-images.githubusercontent.com/59350776/141678560-87a180ef-5bbc-4c9b-a89f-0108877f49cf.png" width="350">
 
